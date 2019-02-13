@@ -1,4 +1,4 @@
-# Musety
+# Wedding Vendor App
 React Native UI Challenge 
 
 Thanks to [Cahyani](https://dribbble.com/chyngm) for this awesome design.
